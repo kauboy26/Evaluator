@@ -83,4 +83,6 @@ int main(void) {
 	assert(destroy(stack) == 0);
 	assert(destroy(NULL) == -1);
 	printf("passes\n\n");
+
+	printf("All cases passed.\n");
 }
