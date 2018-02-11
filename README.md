@@ -45,3 +45,13 @@ cat sample.txt | ./madudes
 
 Only use single character, lower-case variable names. Therefore, you can have
 at most 26 variables.
+
+## More info
+
+I followed the [GNU Bison documentation](https://www.gnu.org/software/bison/manual/html_node/Infix-Calc.html#Infix-Calc) to make a calculator that evaluates expressions like
+"9 * 4 + 3", etc. That documentation is simply beautiful, it's extremely well done.
+I highly recommend reading it instead of following other tutorials online.  
+
+Anyhow, I modified that basic application to allow the use of variables. Since
+this was my first time with this Bison, it took a good deal of figuring out to
+make it work.
