@@ -1,5 +1,8 @@
 # Evaluator
 
+## Other
+Please check out [PyEvaluator](https://github.com/kauboy26/PyEvaluator). It has functionality far exceeding that of this project and the parser and lexer were written by hand, in Python (i.e. without *lex* or *yacc*).
+
 ## About
 This thing evaluates assignment statements. To clarify further, here's an
 example (taken straight from the file "sample.txt"):  
